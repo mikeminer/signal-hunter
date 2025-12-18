@@ -1,3 +1,24 @@
+⭐ Support the Project
+
+I’ve made this tool public and free for everyone on GitHub.
+
+If you find it useful and want to support the work behind it,
+I only ask for one simple thing 👇
+
+👉 Please leave a ⭐ on the repository
+
+It really helps:
+
+increase visibility
+
+motivate further development
+
+justify future improvements and features
+
+Thank you for the support 🙏
+Happy trading.
+
+
 ETH Liquidity Grab Signals – PRO Guide
 
 Advanced Trading Manual
